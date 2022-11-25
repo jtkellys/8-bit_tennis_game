@@ -1,5 +1,5 @@
 # Simple Pong-like Game
-# This was a guided exercise, original code was made by @TokyoEdTech and modd
+# This was a guided exercise, original code was made by @TokyoEdTech and moddified by me
 
 import turtle
 
